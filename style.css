@@ -24,6 +24,10 @@ body {
 
 }
 
+h1 {
+    font-size: 24px;
+}
+
 #container {
     width: 320px;
     height: 475px;
